@@ -1,6 +1,6 @@
 var name = "Joe"
 var height = "74"
-name="Susan"
+war name="Susan"
 
 
 // Don't worry about this
